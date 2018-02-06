@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">RavindraGit</string>
+    <string name="bhopal_description">Bhopal, I realized to my delight, radiates every single one of these traits. My morning in this city had begun early. At 6.30 am, I found myself outside the Van Vihar National Park, clutching a sturdy bicycle picked out of an array lined outside, each of which bore a striking resemblance to the quintessential milkman’s bicycle.</string>
+    <string name="placeholder">Placeholder</string>s
+    <string name="discard">Discard</string>
+    <string name="upload">Upload</string>
+    <string name="camera_settings">ƒ/4 16s ISO 200</string>
+    <string name="settings">Settings</string>
+    <string name="camera">Camera</string>
+    <string name="camera_value">Leica M Typ 240</string>
+    <string name="bhopal">Bhopal</string>
 </resources>
