@@ -11,9 +11,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //Button btn =  (Button) findViewById(R.id.btn);
-
-        findViewById(R.id.btn).setOnClickListener(new View.OnClickListener() {
+       findViewById(R.id.btn).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Toast.makeText(MainActivity.this, "Hello", Toast.LENGTH_SHORT).show();
